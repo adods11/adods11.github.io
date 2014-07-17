@@ -1,0 +1,12 @@
+# Site settings
+title: Amanda's Blog
+email: amanda.dodson1@gmail.com
+description: "This is the description of my blog."
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: adods11
+github_username:  adods11
+
+# Build settings
+markdown: kramdown
+permalink: pretty
