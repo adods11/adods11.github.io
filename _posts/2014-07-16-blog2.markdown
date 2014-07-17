@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "This is my second blog post"
+date:   2014-07-16 19:08:15
+categories: jekyll update
+---
+
+Bonbon cookie lemon drops sweet applicake chocolate tart. Wafer chocolate cake chocolate cake jelly-o chupa chups pastry donut gummies. Soufflé bonbon cupcake topping. Marshmallow tart chocolate bar jelly-o. Wafer marzipan pastry chocolate. Cake cake chupa chups apple pie croissant pastry tootsie roll. Cotton candy jelly beans candy wafer sugar plum. Jujubes oat cake sweet pastry cupcake sesame snaps bear claw fruitcake. Biscuit bear claw marzipan liquorice tart. Sesame snaps jujubes brownie applicake sweet halvah applicake. Chocolate cake soufflé sesame snaps lemon drops. Chocolate cake sweet roll bear claw candy biscuit soufflé jelly. Jujubes bonbon gingerbread chocolate candy. Sweet icing candy.
+
+[jekyll-gh]: https://github.com/jekyll/jekyll
+[jekyll]:    http://jekyllrb.com
